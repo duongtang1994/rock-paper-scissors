@@ -1,1 +1,2 @@
-# rock-paper-scissors
+# odin-rock-paper-scissors
+#Hello. This project is rock paper scissors. This project was made to get my feet wet on javascript. It was a very exciting project and I learned a lot and how to think differently. It was no easy task of course as programming is difficult and requires a different way of thinking.
